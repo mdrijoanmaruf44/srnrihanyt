@@ -1,0 +1,73 @@
+*{
+    margin: 0;padding: 0;
+}
+body {
+  background-color: rgba(231, 221, 176, 0.466);
+}
+.navbar {
+  background-color: rgb(10, 9, 9);
+  height: 64px;
+  color: rgb(182, 187, 171);
+  border-radius: 10px;
+}
+.navbar ul li a {
+  color: white;
+  text-decoration: none;
+}
+.navbar ul li {
+  display: inline-block;
+  margin: 20px 19px;
+}
+.h1 {
+  text-align: center;
+  background-color: rgb(167, 199, 228);
+}
+.srn {
+  display: inline-block;
+  background-color: rgb(80, 214, 255);
+  height: 420px;
+  width: 410px;
+  /* margin: 15px 00px 00px 00px; */
+  padding: 19px;
+  border: rgb(255, 0, 0) solid 6px;
+  color: black;
+  border-radius: 30px;
+  box-sizing: border-box;
+}
+.rihan {
+  display: inline-block;
+  background-color: rgb(87, 240, 151);
+  height: 410px;
+  width: 400px;
+  margin-top: 60px;
+  padding: 19px;
+  border: rgb(17, 0, 255) solid 6px;
+  color: black;
+  border-radius: 30px;
+}
+.yt {
+  display: inline-block;
+  background-color: rgb(243, 220, 117);
+  height: 400px;
+  width: 390px;
+  /* margin: 60px 10px 300px 416px; */
+  padding: 19px;
+  border: rgb(255, 0, 0) solid 6px;
+  color: black;
+  border-radius: 30px;
+}
+tr{
+    margin: 15px;
+}
+iframe {
+  border-radius: 10px;
+}
+.let{
+    border-spacing: 15px;
+}
+.classh2{
+    margin: 20px;
+    border: 2px solid blue;
+    background-color: rgb(109, 79, 79);
+    text-align: center;
+}
